@@ -1,0 +1,34 @@
+Hello, This script is made by melon#3397
+
+This is a simple script that shuts down apps,
+it will not do any harm
+
+Feel free to modify it in any way 
+add as many apps as you want c:
+
+source code:
+
+
+print ("Did you really just trust me?")
+# code made by melon#3397
+# allows user to run operating system commands from Python
+import os
+# just instll the .py script and run in all the apps under will be shutdown
+# note this will not dameg any apps/files/programs.
+os.system("taskkill /f /im Spotify.exe")
+os.system("taskkill /f /im Discord.exe")
+os.system("taskkill /f /im Chrome.exe")
+os.system("taskkill /f /im Firefox.exe")
+os.system("taskkill /f /im Steam.exe")
+os.system("taskkill /f /im Atome.exe")
+os.system("taskkill /f /im Photoshop.exe")
+os.system("taskkill /f /im Brave.exe")
+os.system("taskkill /f /im Notepad.exe")
+os.system("taskkill /f /im Word.exe")
+os.system("taskkill /f /im NordVPN.exe")
+os.system("taskkill /f /im IPvanish.exe")
+os.system("taskkill /f /im Visual Studio Code.exe")
+os.system("taskkill /f /im PyCharm.exe")
+os.system("taskkill /f /im WinRAR.exe")
+# Put as many apps as you want, jusut use the "code os.system("taskkill /f /im ")"
+# hope you have fun with this fun little script c:
